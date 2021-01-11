@@ -6,7 +6,7 @@ function App() {
     <div>
     <p>지아보</p>
     <Button primary> 맛있누 </Button>
-    <Progress percent = {66} />
+    <Progress percent = {66} indicating/>
     </div>
   );
 }
